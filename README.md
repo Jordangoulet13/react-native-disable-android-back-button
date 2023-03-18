@@ -7,7 +7,7 @@ A custom hook that disables the Android back button in React Native when a scree
 To install the package, run:
 
 ```
-npm install --save react-native-back-android
+npm install --save react-native-disable-android-back-button
 ```
 
 ## Usage
