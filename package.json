@@ -1,6 +1,6 @@
 {
   "name": "react-native-disable-android-back",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A custom hook that disables the Android back button in React Native when a screen is focused",
   "main": "index.js",
   "repository": {
